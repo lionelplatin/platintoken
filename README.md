@@ -1,0 +1,2 @@
+# platintoken
+Platin Token Code
